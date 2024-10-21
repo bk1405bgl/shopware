@@ -3,10 +3,10 @@
     "license": "MIT",
     "type": "project",
 "require": {
-    "shopware/administration": "6.6.5.0",
-    "shopware/core": "6.6.5.0",
-    "shopware/elasticsearch": "6.6.5.0",
-    "shopware/storefront": "6.6.5.0",
+    "shopware/administration": "6.6.7.0",
+    "shopware/core": "6.6.7.0",
+    "shopware/elasticsearch": "6.6.7.0",
+    "shopware/storefront": "6.6.7.0",
     "symfony/flex": "~2",
     "symfony/runtime": ">=5",
     "shopware/conflicts": ">=0.2.0"
